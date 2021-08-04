@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    margin: 20px;
+    align-items: center;
+    padding: 10px;
+ 
+    border-radius: 10px;
+    width: 40%;
+    background:rgb(29, 222, 240);
+    
+}
+h1{
+    margin:20px
+}
+ul{
+    list-style: none;
+}  
+
+img{
+    border-radius: 10px;
+}
